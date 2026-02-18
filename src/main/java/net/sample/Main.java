@@ -6,6 +6,7 @@ public class Main {
 
         System.out.printf("Hello and welcome!");
         System.out.printf("test reza");
+        System.out.printf("test reza2");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
